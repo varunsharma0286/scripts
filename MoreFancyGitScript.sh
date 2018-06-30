@@ -2,6 +2,7 @@
 
 
 # Gather constant vars
+
 CURRENTDIR=${PWD##*/}
 GITHUBUSER=$(git config github.user)
 
